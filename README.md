@@ -6,6 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaValentina&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+  ATUALMENTE ESTUDANDO: 
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Java" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
