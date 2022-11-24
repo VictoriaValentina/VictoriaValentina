@@ -10,6 +10,7 @@
   <img align="center" alt="MySQL" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Java" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Python" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="right" alt="Vick-pic" height="250" style="border-radius:80px;"    src="https://media.discordapp.net/attachments/1045058010743066757/1045360679105855578/project_20221124_1229285-01.png?width=413&height=413">
 </div>
 
 ##
@@ -21,6 +22,6 @@
   <a href = "mailto:0330vickaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victoria-valentina-bastos-ara%C3%BAjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VictoriaValentina/VictoriaValentina/blob/output/github-contribution-grid-snake.svg)
  
 </div>
