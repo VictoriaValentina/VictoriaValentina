@@ -5,9 +5,12 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictoriaValentina&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaValentina&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+   
+  ### Atualmente estudando: 
+  
+  ##
 
-  ATUALMENTE ESTUDANDO: 
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Java" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Python" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
