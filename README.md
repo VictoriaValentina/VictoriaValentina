@@ -6,10 +6,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaValentina&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
    
-  ### Atualmente estudando: 
-  
-  ##
-
   <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
