@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/VictoriaValentina">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictoriaValentina&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaValentina&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=VictoriaValentina&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaValentina&layout=compact&langs_count=7&theme=cobalt"/>
   <img align="right" alt="Vick-pic" height="250" style="border-radius:80px;"    src="https://media.discordapp.net/attachments/1045058010743066757/1045360679105855578/project_20221124_1229285-01.png?ex=67af617f&is=67ae0fff&hm=f408fdd5a66ce1a6258af7ecf81d1fabfd2e9df96d06db023ed2e98105759b71&=&format=webp&quality=lossless&width=413&height=413">
 </div>
    
